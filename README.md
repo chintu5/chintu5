@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ravi_krishna 
+- 👋 Hi, I’m @Ravi krishna 
 - 👀 I’m interested in playing games and watching series..
-- 🌱 I’m currently learning .c++,c,python..
+- 🌱 I’m currently learning .Java and python..
 - 💞️ I’m looking to collaborate on ..python.
 - 📫 How to reach me .im avilable at ravikrishnapinnamaneni01@gamil.com
 
