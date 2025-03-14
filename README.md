@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chintu5 
+- 👋 Hi, I’m @Ravi_krishna 
 - 👀 I’m interested in playing games and watching series..
 - 🌱 I’m currently learning .c++,c,python..
 - 💞️ I’m looking to collaborate on ..python.
